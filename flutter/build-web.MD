@@ -26,3 +26,6 @@ Sedikit lebih cepat dari yang lain.
 ```
 projectmu/build/web
 ```
+
+## Upload ke Xampp / lampp
+1. copy hasil build mu
